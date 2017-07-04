@@ -1,0 +1,29 @@
+{
+  "name": "my_css_framework",
+  "version": "0.0.1",
+  "description": "basic framework focusing on css classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innlouvate/my_css_framework.git"
+  },
+  "author": "Lou Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innlouvate/my_css_framework/issues"
+  },
+  "homepage": "https://github.com/innlouvate/my_css_framework#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "@typopro/web-source-code-pro": "^3.4.9",
+    "@typopro/web-source-sans-pro": "^3.4.9",
+    "@typopro/web-source-serif-pro": "^3.4.9",
+    "font-awesome": "^4.7.0"
+  }
+}
